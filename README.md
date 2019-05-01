@@ -1,4 +1,4 @@
-# Dynamic Entities Demo
+# Dynamic Trivia Game Demo
 
 ## What You Will Need
 *  [Amazon Developer Account](http://developer.amazon.com/alexa)
